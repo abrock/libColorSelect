@@ -1,0 +1,6 @@
+This library implements an algorithm for choosing a set of colors with maximum contrast
+as described in this article:
+
+P. Campadelli, R. Posenato, R. Schettini, An Algorithm for the Selection of High Contrast Color Sets, Color research and application Vol 19 132--138 (1999) 
+
+All code is licenced under GPL v3 only.
